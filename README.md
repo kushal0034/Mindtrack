@@ -24,3 +24,76 @@
 
 ---
 
+
+---
+
+## 🛠️ Installation & Requirements
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/mindtrack.git
+    cd mindtrack
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    pip install streamlit pandas numpy matplotlib wordcloud scikit-learn deepface
+    ```
+
+3. **Run the app:**
+    ```bash
+    streamlit run mindtrack_app.py
+    ```
+
+---
+
+## 🧰 Libraries & Technologies
+
+- [Streamlit](https://streamlit.io/) — for interactive web UI
+- [pandas](https://pandas.pydata.org/) — data handling
+- [numpy](https://numpy.org/) — numerical computations
+- [matplotlib](https://matplotlib.org/) — plots and visualizations
+- [wordcloud](https://github.com/amueller/word_cloud) — word cloud generation
+- [scikit-learn](https://scikit-learn.org/) — ML algorithms (Random Forest, Logistic Regression, TF-IDF)
+- [DeepFace](https://github.com/serengil/deepface) — (future) emotion recognition from images
+
+---
+
+## 📝 Usage
+
+- **Single Post Analysis:**
+  - Select "Single Post Analysis" in the sidebar.
+  - Paste a social media post (English only) and click "Analyze Text".
+  - View predictions, explanations, and a word cloud.
+
+- **Planned Features:**
+  - Bulk post analysis via CSV upload (in development)
+  - Image-based facial emotion analysis (in development)
+
+---
+
+## 📈 Example Output
+
+- **Depression/Anxiety Prediction:**  
+  _"Depressed/Anxious" (Probability: 0.85)_
+
+- **Cognitive Alignment:**  
+  _"Distracted/Disorganized" (Probability: 0.70)_
+
+- **Word Cloud:**  
+  ![Sample Word Cloud](sample_wordcloud.png)
+
+
+
+---
+
+
+## 🔭 Roadmap
+
+- [x] Single post depression/anxiety analysis (NLP)
+- [ ] Bulk post (CSV) analysis
+- [ ] Image-based emotion detection
+
+---
+
+
