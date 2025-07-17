@@ -85,7 +85,7 @@
   _"Distracted/Disorganized" (Probability: 0.70)_
 
 - **Word Cloud:**  
-  ![Sample Word Cloud](sample_wordcloud.png)
+  ![Sample Word Cloud](wordcloud.png)
 
 
 
