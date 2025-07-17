@@ -29,6 +29,10 @@
 
 ## 🛠️ Installation & Requirements
 
+> **Quick Start:**  
+> You can run this project right away in the provided **GitHub Codespace**, with all dependencies pre-installed.  
+> Otherwise, follow the steps below for manual setup:
+
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/mindtrack.git
