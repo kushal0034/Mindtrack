@@ -46,7 +46,7 @@
 
 3. **Run the app:**
     ```bash
-    streamlit run mindtrack_app.py
+    streamlit run mindtrack.py
     ```
 
 ---
