@@ -79,15 +79,15 @@
 ## 📈 Example Output
 
 - **Depression/Anxiety Prediction:**  
-  _"Depressed/Anxious" (Probability: 0.53)_
-  ![Sample output](output1.png)
+  _"Depressed/Anxious" (Probability: 0.67)_
+  ![Sample output](output4.png)
 
 - **Cognitive Alignment:**  
   _"Distracted/Disorganized" (Probability: 0.51)_
   ![Sample output](output3.png)
 
 - **Word Cloud:**  
-  ![Sample Word Cloud](wordcloud.png)
+  ![Sample Word Cloud](wordcloud1.png)
 
 
 
