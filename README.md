@@ -79,7 +79,7 @@
 ## 📈 Example Output
 
 - **Depression/Anxiety Prediction:**  
-  _"Depressed/Anxious" (Probability: 0.85)_
+  _"Depressed/Anxious" (Probability: 0.45)_
   [Sample output](output1.png)
 
 - **Cognitive Alignment:**  
