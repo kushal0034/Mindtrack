@@ -38,15 +38,13 @@
 
 2. **Install dependencies:**
     ```bash
-    pip install streamlit pandas numpy matplotlib wordcloud scikit-learn deepface
+    pip install streamlit pandas numpy matplotlib wordcloud scikit-learn deepface tf-keras
     ```
     ```
     sudo apt-get update
     sudo apt-get install -y libgl1
     ```
-    ```
-    pip install tf-keras
-    ```
+
 
 3. **Run the app:**
     ```bash
