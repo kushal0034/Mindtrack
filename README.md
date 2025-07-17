@@ -87,7 +87,7 @@
   ![Sample output](output3.png)
 
 - **Word Cloud:**  
-  ![Sample Word Cloud](wordcloud1.png)
+  ![Sample Word Cloud](wordcloud2.png)
 
 
 
